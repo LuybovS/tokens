@@ -1,0 +1,18 @@
+general: general,generalColors
+
+colorThemeMinfin brandMinfin,neutralCold
+colorThemeBlue brandBlue,neutralCold
+colorThemeBlackGreen brandBlackGreen,neutralWarm
+colorThemeDefault brandDefault,neutralWarm
+colorThemeAbsolute brandAbsolute,neutralWarm
+colorThemeBrown brandBrown,neutralWarm
+colorThemePink brandPink,neutralCold
+colorThemeYellow brandYellow,neutralWarm
+colorThemeRed brandRed,neutralCold
+colorThemeTurquoise brandTurquoise,neutralCold
+colorThemeVtb brandVtb,neutralCold
+
+typeThemeOpenMontserrat typeOpenMontserrat
+typeThemePtSans typePtSans
+typeThemeProximaNova typeProximaNova
+typeThemeTenor typeTenor
