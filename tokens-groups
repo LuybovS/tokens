@@ -1,16 +1,16 @@
-general: general,generalColors
+general: general,generalColors,systemColors generalColors
 
-colorThemeMinfin brandMinfin,neutralCold
-colorThemeBlue brandBlue,neutralCold
-colorThemeBlackGreen brandBlackGreen,neutralWarm
-colorThemeDefault brandDefault,neutralWarm
-colorThemeAbsolute brandAbsolute,neutralWarm
-colorThemeBrown brandBrown,neutralWarm
-colorThemePink brandPink,neutralCold
-colorThemeYellow brandYellow,neutralWarm
-colorThemeRed brandRed,neutralCold
-colorThemeTurquoise brandTurquoise,neutralCold
-colorThemeVtb brandVtb,neutralCold
+colorThemeMinfin brandMinfin,neutralCold,generalColors generalColors 
+colorThemeBlue brandBlue,neutralCold,generalColors generalColors 
+colorThemeBlackGreen brandBlackGreen,neutralWarm,generalColors generalColors 
+colorThemeDefault brandDefault,neutralWarm,generalColors generalColors 
+colorThemeAbsolute brandAbsolute,neutralWarm,generalColors generalColors 
+colorThemeBrown brandBrown,neutralWarm,generalColors generalColors 
+colorThemePink brandPink,neutralCold,generalColors generalColors 
+colorThemeYellow brandYellow,neutralWarm,generalColors generalColors 
+colorThemeRed brandRed,neutralCold,generalColors generalColors 
+colorThemeTurquoise brandTurquoise,neutralCold,generalColors generalColors 
+colorThemeVtb brandVtb,neutralCold,generalColors generalColors 
 
 typeThemeOpenMontserrat typeOpenMontserrat
 typeThemePtSans typePtSans
