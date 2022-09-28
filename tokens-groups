@@ -12,7 +12,8 @@ colorThemeRed brandRed,neutralCold,generalColors generalColors
 colorThemeTurquoise brandTurquoise,neutralCold,generalColors generalColors 
 colorThemeVtb brandVtb,neutralCold,generalColors generalColors 
 
-typeThemeOpenMontserrat typeOpenMontserrat
-typeThemePtSans typePtSans
-typeThemeProximaNova typeProximaNova
-typeThemeTenor typeTenor
+typeThemeOpenMontserrat typeOpenMontserrat,generalType generalType
+typeThemePtSans typePtSans,generalType generalType
+typeThemeProximaNova typeProximaNova,generalType generalType
+typeThemeTenor typeTenor,generalType generalType
+typeThemeVtb typeVtb,generalType generalType
